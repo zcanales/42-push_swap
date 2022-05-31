@@ -10,8 +10,8 @@ To make this happen, it will involve to manipulate various sorting algorithms an
 # Usage
 
 1. Clone the repo `git clone git@github.com:zcanales/42-push_swap.git`
-3. Compile Push Swap `make`
-4. Run `./push_swap 0 2 3 1` or  `./push_swap "0 2 3 1"`
+2. Compile Push Swap `make`
+3. Run `./push_swap 0 2 3 1` or  `./push_swap "0 2 3 1"`
 
 # Features
 
